@@ -11,7 +11,7 @@ labels:
 summary: "An ongoing collaborative project to develop a computer game."
 ---
 
-<img class="img-fluid" src="../img/heartcased/Title_Screen_Mockup_GIF.gif">
+<img class="img-fluid" src="../img/heartcased/Title_Screen_Mock_Up_GIF.gif">
 <img class="img-fluid" src="../img/heartcased/store.png">
 
 
