@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Heartcased"
 date: 2025
-published: false
+published: true
 labels:
   - Gaming
   - Godot
