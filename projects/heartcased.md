@@ -10,6 +10,10 @@ labels:
   - Godot
 summary: "An ongoing collaborative project to develop a computer game."
 ---
+<div class="text-center p-4">
+  <img width="300px" src="../img/heartcased/Title_Screen_Mock_Up_GIF.gif" class="img-thumbnail" >
+  <img width="300px" src="../img/heartcased/store.png" class="img-thumbnail" >
+</div>
 
 <img class="img-fluid" src="../img/heartcased/Title_Screen_Mock_Up_GIF.gif">
 <img class="img-fluid" src="../img/heartcased/store.png">
