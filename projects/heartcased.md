@@ -11,12 +11,9 @@ labels:
 summary: "An ongoing collaborative project to develop a computer game."
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/heartcased/Title_Screen_Mock_Up_GIF.gif" class="img-thumbnail" >
-  <img width="300px" src="../img/heartcased/store.png" class="img-thumbnail" >
+  <img width="600px" src="../img/heartcased/Title_Screen_Mock_Up_GIF.gif" class="img-thumbnail" >
+  <img width="600px" src="../img/heartcased/store.png" class="img-thumbnail" >
 </div>
-
-<img class="img-fluid" src="../img/heartcased/Title_Screen_Mock_Up_GIF.gif">
-<img class="img-fluid" src="../img/heartcased/store.png">
 
 
 Heartcased is a visual novel computer game that follows tired investigator George, his loyal and determined partner Keith, and enigmatic convenience store worker E as they attempt to survive the depraved dystopia of Wick. Join them as they try to preserve what little safety remains in the city one criminal at a time, even if it means abandoning everything they thought they knew about themselves. The game features investigation mechanics, meaning that there are branching paths in dialogue as well as a health system to reward successful deductive reasoning.
