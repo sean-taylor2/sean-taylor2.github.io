@@ -10,7 +10,7 @@ labels:
   - Introduction
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/intro/computer.png">
 
 ## First, a little history.
 My knowledge of software engineering pretty much began when I was a child. I played computer games, like most people my age around that time. As a child, I could only sit there in awe as I wondered, "How do the colorful things even happen". 
