@@ -11,7 +11,10 @@ labels:
 summary: "A coding project from the class that taught me C and C++. This was my first real project with C++."
 ---
 
-Don't be fooled by the name, I promise that there were no violations of ethics here.
+
+Don't be fooled by the name, I promise that no real humans were damaged in the making of this project.
+
+Except maybe my professor, when forced to review this project.
 
 This program was created in a course called Program Structure. Prior to this class, I hadn't really put too much effort in the way of programming outside of doing smaller projects in Java for lower level classes. Being my first exposure to a new programming language, it really opened my eyes that the real skill of a programmer is not memorisation of a specific language, but a skill to adapt. It was the first time I hhad broken out of my comfort zone and dedicated myself to relearning the basics of object-oriented and procedural programming.
 
