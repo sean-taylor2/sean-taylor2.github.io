@@ -12,9 +12,9 @@ labels:
 
 ## Learning Typescript
 
-Even though I have some background in similar languages, remembering the conventions of Typescript can be a bit tricky. I still sometimes find myself typing variables wrong, or feel the urge to write "var" instead of "const" or "let". However, it does remind me of when I was first learning other programming languages. When I learned Java and C++ and GDScript, I was still trying to get a hang of Object Oriented programming. With that all behind me, learning TypeScript has actually been pretty smooth, and I am surprised just how quickly I am now catching on. Although I'd like to say its a factor of my own skill, it's definitely thanks to how intuitive the language feels, especially coming from a other Object Oriented languages.
+Even though I have some background in similar languages, remembering the conventions of Typescript can be a bit tricky. I still sometimes find myself typing variables wrong, or feel the urge to write "var" instead of "const" or "let". However, it does remind me of when I was first learning other programming languages. When I learned Java and C++ and GDScript, I was still trying to get a hang of OOP. With that all behind me, learning TypeScript has actually been pretty smooth, and I am surprised just how quickly I am now catching on. Although I'd like to say its a factor of my own skill, it's definitely thanks to how intuitive the language feels, especially coming from a other Object Oriented languages.
 
-JavaScript though... I understand that it's just simpler for people who have never programmed, and I understand that it has it's own uses. Personally though, I have way more trouble remembering things like cloning an object in JavaScript than doing it the way I'm used to in Typescript. I'll definitely have to delve into both more, but right now the learning process is going very well.
+JavaScript though... I understand that it's just simpler for people who have never programmed, and I understand that it has it's own uses. Personally though, I have way more trouble remembering things like cloning an object in JavaScript than doing it the way I'm used to in Typescript, where its similar to the way it's done in other languages I'm used to. I'll definitely have to delve into both more, but right now the learning process is going very well.
 
 ## WODs and pain
 
