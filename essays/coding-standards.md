@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Learning conventions"
+title: "Coding Conventions and he Human Element"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-24
 published: true
