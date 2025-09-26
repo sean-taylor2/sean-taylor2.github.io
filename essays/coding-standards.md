@@ -26,11 +26,21 @@ While not a direct 1:1 situation, this is the reasoning behind conventions. Mess
 
 All because you couldn’t clean your room. 
 
-## Closing Thoughts
-
 So, we keep things organized and in a well-understood manner to avoid such unnecessary time loss. So, while conventions may seem unnecessary, they actually aren’t when you consider the observable reality of your classmate's messy code.
 
-ESLint is a great policing tool to keep these conventions solid, and it is very helpful in that way. My code is more readable and consistent even to myself. With that said, I’m still bothered that the error red line is the same as the red line that shows for syntactical errors. In my opinion, they should be different just so I can tell that the code works and that I can come back and fix things to convention when I'm finished. Although, maybe I'm still coming from that beginner mindset. That small irritation is worth the process of becoming better at my craft.
+## That's not everything...
+
+I've been using examples of minor "grammatical" errors to describe coding standards, but in reality there's a lot more that ESLint isn't designed to catch. For example, you don't need to create comments for your code to run. And yet, it remains a very important convention that every developer had really ought to follow. Creating well documented code is challenging. In fact, I think that most software developers are terrible at describing what their code actually does (especially to a non-computer savvy audience). I used to participate in game modding/romhacking communities, and I would commonly find forum posts asking how to even use the software that contributers had otherwise worked very hard on. They had essentially handed others tools that were completely alien.
+
+Here's the obivious part I'm getting at. Programming is not just for the  computer. The human element should always be on the mind, because at the end of the day, humans are going to be using and changing your software. They are going to expect documentation. They are going to expect methods and and variables to be structured a certain way. They are going to expect concise code. None of these things are enforced by the compiler, and a lot of them aren't caught by any programs, because they are conventions made for the ease of the human mind. 
+
+During all this, what you may not have noticed is that the structure provided by such conventions are simultaneously accentuating how languages even function, providing a better understanding of how things work. In that way I can see that they work in favor for someone trying to learn a new language. 
+
+For something that is not normally policed by the computer, the importance of conventions can not be understated.
+
+## Closing thoughts on ESLint
+
+As a result, I think ESLint is pretty helpful great policing tool to keep conventions solid. My code is more readable and consistent even to myself. With that said, I’m still bothered that the error red line is the same as the red line that shows for syntactical errors. In my opinion, they should be different just so I can tell that the code works and that I can come back and fix things to convention when I'm finished. Although, maybe I'm still coming from that beginner mindset. That small irritation is worth the process of becoming better at my craft.
 
 
 
