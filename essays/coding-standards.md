@@ -40,7 +40,7 @@ For something that is not normally policed by the computer, the importance of co
 
 ## Closing thoughts on ESLint
 
-As a result, I think ESLint is pretty helpful great policing tool to keep conventions solid. My code is more readable and consistent even to myself. With that said, I’m still bothered that the error red line is the same as the red line that shows for syntactical errors. In my opinion, they should be different just so I can tell that the code works and that I can come back and fix things to convention when I'm finished. Although, maybe I'm still coming from that beginner mindset. That small irritation is worth the process of becoming better at my craft.
+I think ESLint is pretty helpful great policing tool to keep conventions solid. My code is more readable and consistent even to myself. With that said, I’m still bothered that the error red line is the same as the red line that shows for syntactical errors. In my opinion, they should be different just so I can tell that the code works and that I can come back and fix things to convention when I'm finished. Although, maybe I'm still coming from that beginner mindset. That small irritation is worth the process of becoming better at my craft.
 
 
 
