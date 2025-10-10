@@ -23,6 +23,14 @@ I may have been misleading before. When I said that these tools were attractive 
 
 Specific complaints about specific frameworks aside, I can also forsee the possibility of a beginner jumping straight in without properly spending time with raw css to fully understand what the framework is even doing. This is a trap. Yes, these tools are here to make our lives easier and generally cleaner. However, we shouldn't forget that understanding the mess before getting to the cleaning is the only way any real time is going to be saved.
 
+## The Case of Doing it Yourself
+
+A major thing I kept thinking to myself as I was trying to learn bootstrap was "this work doesn't feel genuine." My present self doesn't agree with my past self, but it did get me to thinking of any arguments that would be against the use of such frameworks. I thought about art and how using guides and references also didn't feel "genuine" when I was learning as a child.
+
+This is not a 1:1 situation obviously, but it does represent my feelings on the matter quite well. In terms of art, I incorporate both references and guidelines quite frequently into my workflow, just as I imagine I will incorporate such frameworks into my workflow of SWE. I do think back to those early days of art and just allowing myself to fail and do it my own way first, and I do think there is a case for that here too.
+
+I'm not saying this should be the approach everyone should take, but I genuinely believe there is value to be gained in trying it "your own way" for a while, without third-party influence. It just so happens that "your own way" might be painful to look at for a while.
+
 ## So, is it Worth it?
 
 You and I already know the answer to that question. In the grand scheme of things, people desire simplicity and not having their time wasted. Sure, the curve is pretty big, and using one may result in even more work to work around contraints that can hinder creativity for those without experience. However, it would be foolish to say that these aren't useful from a SWE perspective, because of course they are. They just come with the caveat of not replacing the usefulness of learning CSS.
